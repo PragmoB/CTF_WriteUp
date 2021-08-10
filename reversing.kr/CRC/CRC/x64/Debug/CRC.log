@@ -1,0 +1,105 @@
+﻿  CRC.cpp
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(264): error C4235: 비표준 확장이 사용됨: 이 아키텍처에서는 '__asm' 키워드를 사용할 수 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(265): error C2065: 'ecx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(265): error C3192: 구문 오류: '^'는 전위 연산자가 아닙니다. '*'를 잘못 사용한 것은 아닌지 확인하십시오.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(266): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(266): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(266): error C2146: 구문 오류: ';'이(가) 'eax' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(266): error C2065: 'eax': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(267): error C2146: 구문 오류: ';'이(가) 'add' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(267): error C2065: 'add': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(267): error C2146: 구문 오류: ';'이(가) 'eax' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(267): error C2065: 'eax': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(268): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(268): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(268): error C2146: 구문 오류: ';'이(가) 'cl' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(268): error C2065: 'cl': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(268): error C2065: 'byte': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(268): error C2146: 구문 오류: ';'이(가) 'ptr' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(268): error C2065: 'ptr': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(268): error C2065: 'eax': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(269): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(269): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(269): error C2146: 구문 오류: ';'이(가) 'edi' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(269): error C2065: 'edi': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(269): error C2065: 'ecx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(270): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(270): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(270): error C2146: 구문 오류: ';'이(가) 'eax' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(270): error C2065: 'eax': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(271): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(271): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(271): error C2146: 구문 오류: ';'이(가) 'edx' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(271): error C2065: 'edx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(272): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(272): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(272): error C2146: 구문 오류: ';'이(가) 'ecx' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(272): error C2065: 'ecx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(272): error C2065: 'eax': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(273): error C2065: 'ecx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(274): error C2065: 'edi': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(274): error C2065: 'ecx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(275): error C2146: 구문 오류: ';'이(가) 'shrd' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(275): error C2065: 'shrd': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(275): error C2146: 구문 오류: ';'이(가) 'eax' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(275): error C2065: 'eax': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(275): error C2065: 'edx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(276): error C2146: 구문 오류: ';'이(가) 'shr' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(276): error C2065: 'shr': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(276): error C2146: 구문 오류: ';'이(가) 'edx' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(276): error C2065: 'edx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(277): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(277): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(277): error C2146: 구문 오류: ';'이(가) 'ebx' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(277): error C2065: 'ebx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(278): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(278): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(278): error C2146: 구문 오류: ';'이(가) 'ecx' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(278): error C2065: 'ecx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(278): error C2065: 'dword': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(278): error C2146: 구문 오류: ';'이(가) 'ptr' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(278): error C2065: 'ptr': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(278): error C2065: 'ebx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(278): error C2065: 'edi': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(279): error C2065: 'ecx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(279): error C2065: 'eax': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(280): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(280): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(280): error C2146: 구문 오류: ';'이(가) 'edi' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(280): error C2065: 'edi': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(280): error C2065: 'dword': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(280): error C2146: 구문 오류: ';'이(가) 'ptr' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(280): error C2065: 'ptr': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(280): error C2065: 'ebx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(281): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(281): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(281): error C2146: 구문 오류: ';'이(가) 'eax' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(281): error C2065: 'eax': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(281): error C2065: 'ecx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(282): error C2065: 'edi': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(282): error C2065: 'edx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(283): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(283): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(283): error C2146: 구문 오류: ';'이(가) 'edx' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(283): error C2065: 'edx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(283): error C2065: 'edi': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(284): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(284): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(284): error C2146: 구문 오류: ';'이(가) 'myEAX' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(284): error C2065: 'eax': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(285): error C2146: 구문 오류: ';'이(가) 'mov' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(285): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(285): error C2146: 구문 오류: ';'이(가) 'myEDX' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(285): error C2065: 'edx': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(286): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(317): error C4235: 비표준 확장이 사용됨: 이 아키텍처에서는 '__asm' 키워드를 사용할 수 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(318): error C2065: 'mov': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(318): error C2146: 구문 오류: ';'이(가) 'edi' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(318): error C2065: 'edi': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(319): error C2146: 구문 오류: ';'이(가) 'lea' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(319): error C2065: 'lea': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(319): error C2146: 구문 오류: ';'이(가) 'edi' 식별자 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(319): error C2065: 'edi': 선언되지 않은 식별자입니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(319): error C2143: 구문 오류: ']'이(가) '-' 앞에 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(319): error C3481: 'edi': 람다 캡처 변수가 없습니다.
+d:\플래그모\myresults\리버싱 문제풀이\reversing.kr\crc\crc\crc.cpp(319): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.

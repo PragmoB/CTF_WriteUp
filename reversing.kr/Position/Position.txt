@@ -1,0 +1,117 @@
+첫번째 문자
+
+AND CL, 1
+MOV BYTE PTR SS:[EBP-20], CL
+ADD BYTE PTR SS:[EBP-20], 5
+
+SHR CL, 1
+AND CL, 1
+ADD CL, 5
+MOV BYTE PTR SS:[EBP-1F], CL
+
+SHR DL, 2
+AND DL, 1
+ADD DL, 5
+MOV BYTE PTR SS:[EBP-1E], DL
+
+SHR BL, 3
+AND BL, 1
+ADD BL, 5
+MOV BYTE PTR SS:[EBP-1D], BL
+
+SHR AL, 4
+AND AL, 1
+MOV BYTE PTR SS:[EBP-1C], AL
+ADD BYTE PTR SS:[EBP-1C], 5
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+두번째 문자
+
+AND CL, 1
+MOV BYTE PTR SS:[EBP-28], CL
+INC BYTE PTR SS:[EBP-28]
+
+SHR CL, 1
+AND CL, 1
+INC CL
+MOV BYTE PTR SS:[EBP-27], CL
+
+SHR DL, 3
+AND DL, 1
+INC DL
+MOV BYTE PTR SS:[EBP-25], DL
+
+SHR AL, 4
+AND AL, 1
+MOV BYTE PTR SS:[EBP-24], AL
+
+SHR BL, 2
+AND BL, 1
+INC BL
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+첫번째 : [EBP-20] + 이름없는애
+두번째 : [EBP-2D] + [EBP-25]
+세번째 : [EBP-24] + [EBP-1F]
+네번째 : [EBP-1E] + [EBP-28]
+다섯번째 : [EBP-1C]+ [EBP-27]
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+세번째 문자
+
+AND CL, 1
+MOV BYTE PTR SS:[EBP-20], CL
+ADD BYTE PTR SS:[EBP-20], 5
+
+SHR CL, 1
+AND CL, 1
+ADD CL, 5
+MOV BYTE PTR SS:[EBP-1F], CL
+
+SHR DL, 2
+AND DL, 1
+ADD DL, 5
+MOV BYTE PTR SS:[EBP-1E]
+
+SHR BL, 3
+AND BL, 1
+ADD BL, 5
+MOV BYTE PTR SS:[EBP-1D], BL
+
+SHR AL, 4
+AND AL, 1
+ADD AL, 5
+MOV BYTE PTR SS:[EBP-1C], AL
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+네번째 문자
+
+AND CL, 1
+INC CL
+MOV BYTE PTR SS:[EBP-28], CL
+
+SHR CL, 1
+AND CL, 1
+INC CL
+MOV BYTE PTR SS:[EBP-27], CL
+
+SHR DL, 3
+AND DL, 1
+INC DL
+MOV BYTE PTR SS:[EBP-25], DL
+
+SHR BL, 2
+AND BL, 1
+INC BL
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+여섯번째 : [EBP-20] + 이름없는애
+일곱번째 : [EBP-1D] + [EBP-25]
+여덟번째 : [EBP-1F] + [EBP-24]
+아홉번째 : [EBP-28] + [EBP-1E]
+열번째 : [EBP-1C] + [EBP-27]
