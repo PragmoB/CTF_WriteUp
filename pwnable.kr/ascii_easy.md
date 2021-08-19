@@ -58,13 +58,19 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjgaUV|kU@voU@voU
 
 왜 그럴까?
 
-이 그림은 각각 페이로드A와 페이로드B를 적용했을때 ret 직전 스택 상태를 관찰한 것이다.
+![errorsh](https://user-images.githubusercontent.com/67177785/130112048-b4f952ae-23f3-42c3-b2d9-614b6229d4a6.PNG)
+
+![UWVSsh](https://user-images.githubusercontent.com/67177785/130112051-3c445e82-2c93-4b4b-b94d-a8bb4a2676db.PNG)
+
+이 그림은 각각 페이로드B와 페이로드A를 적용했을때 ret 직전 스택 상태를 관찰한 것이다.
 
 각 값이 의도한대로 자리를 잘 잡았고 리턴만 하면 쉘을 얻을 수 있을거라 기대된다
 
 페이로드 자체는 문제가 없다
 
 이후 여러가지 시도를 해보다가 얻어걸린게 하나 있다.
+
+![error원인](https://user-images.githubusercontent.com/67177785/130112050-96005729-0a39-41cd-b38e-99ea6810d50f.PNG)
 
 /bin 경로에 심어둔 error파일을 지우고 두가지 페이로드를 실행해보면
 
@@ -76,9 +82,12 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjgaUV|kU@voU@voU
 
 전부 대문자라 안되나? 소문자로 변경
 
+![문자열](https://user-images.githubusercontent.com/67177785/130112053-d1627d55-20f7-43b3-9876-d42957e75210.PNG)
+
 ```
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjgaUJyWUxTkUxTkU
 ```
+
 entiu로 바꿨는데 얘도 안됨
 
 ## 의문점#2
