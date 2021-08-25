@@ -1,0 +1,13 @@
+ANU[[:space:]]2021/Network/Binary[[:space:]]Letters/Network_1.zip filter=lfs diff=lfs merge=lfs -text
+ANU filter=lfs diff=lfs merge=lfs -text
+2021/Network/Binary filter=lfs diff=lfs merge=lfs -text
+Letters/Network_1.zip filter=lfs diff=lfs merge=lfs -text
+Network_1.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+ANUSEC[[:space:]]2021/Network/Binary[[:space:]]Letters/ filter=lfs diff=lfs merge=lfs -text
+ANUSEC[[:space:]]2021/Network/Binary[[:space:]]Letters/* filter=lfs diff=lfs merge=lfs -text
+ANUSEC[[:space:]]2021/Network/Binary[[:space:]]Letters/*.* filter=lfs diff=lfs merge=lfs -text
+Binary[[:space:]]Letters.php filter=lfs diff=lfs merge=lfs -text
+Binary[[:space:]]Letters.php filter=lfs diff=lfs merge=lfs -text
+ANUSEC[[:space:]]2021/Network/Binary[[:space:]]Letters/Binary[[:space:]]Letters.php filter=lfs diff=lfs merge=lfs -text
+*.php filter=lfs diff=lfs merge=lfs -text
